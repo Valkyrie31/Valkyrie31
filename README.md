@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## 👩‍💻 What I Do
+##  What I Do
 
 ![Data Analytics](https://img.shields.io/badge/DATA%20ANALYTICS-0A192F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## ⚒️ What I Use
+##  What I Use
 
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -45,29 +45,20 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Valkyrie31&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=Valkyrie31&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🏏 Asia Cup Analytics Dashboard
+###  Asia Cup Analytics Dashboard
 
-📌 Interactive Power BI dashboard using Asia Cup data from **1984–2022**
+ Interactive Power BI dashboard using Asia Cup data from **1984–2022**
 
-✔ Team Performance Analysis  
-✔ Player Statistics  
-✔ Match Trends & Insights  
-✔ Data Cleaning using Power Query  
-✔ DAX Measures & Interactive Visuals  
+ Team Performance Analysis  
+ Player Statistics  
+ Match Trends & Insights  
+ Data Cleaning using Power Query  
+ DAX Measures & Interactive Visuals  
 
 </div>
 
@@ -75,7 +66,7 @@
 
 <div align="center">
 
-## 🌐 Where To Find Me
+##  Where To Find Me
 
 <a href="https://www.linkedin.com/in/vanika-kapoor-23915828a/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -95,7 +86,7 @@
 
 <div align="center">
 
-### ✨ “Turning Data into Stories & Insights.” ✨
+###  “Turning Data into Stories & Insights.” 
 
 </div>
 ```
