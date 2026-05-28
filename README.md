@@ -51,11 +51,9 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Valkyrie31&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkyrie31&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Valkyrie31&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 <div align="center">
 
