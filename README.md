@@ -84,9 +84,3 @@
 
 ---
 
-<div align="center">
-
-###  “Turning Data into Stories & Insights.” 
-
-</div>
-```
