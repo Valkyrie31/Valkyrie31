@@ -27,4 +27,4 @@ Writing SQL queries against messy, multi-table data using joins and window funct
 📍 Bhopal  
 ✉️ vanikakapoor31@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vanika-kapoor-23915828a)
-```
+
