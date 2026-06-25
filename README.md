@@ -2,10 +2,10 @@
 
 I find the one number in a messy dataset that actually matters, then build something around it.
 
-54% win rate when IPL teams choose to field after winning the toss (vs 50.8% overall)  
-₹69.61 Cr in Starbucks India revenue mapped across stores, cities, and product lines  
-9.1 runs/over, showing how IPL scoring climbed from 8.0 over 17 seasons  
-44% of Starbucks India revenue comes from coffee alone  
+*54% win rate when IPL teams choose to field after winning the toss (vs 50.8% overall)  
+*₹69.61 Cr in Starbucks India revenue mapped across stores, cities, and product lines  
+*9.1 runs/over, showing how IPL scoring climbed from 8.0 over 17 seasons  
+*44% of Starbucks India revenue comes from coffee alone  
 
 Final-year CS (AI & ML) student at VIT Bhopal, currently deep in SQL and getting ready for analyst internship season.
 
