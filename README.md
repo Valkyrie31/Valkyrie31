@@ -9,7 +9,7 @@ I find the one number in a messy dataset that actually matters, then build somet
 
 Final-year CS (AI & ML) student at VIT Bhopal, currently deep in SQL and getting ready for analyst internship season.
 
-## How I work
+## How I work 
 
 I don't start with a chart; I start with a question worth asking. Cleaning, EDA, and visualization are how I get to the answer, not the point of the exercise.
 
