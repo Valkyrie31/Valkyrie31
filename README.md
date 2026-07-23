@@ -18,10 +18,6 @@ I don't start with a chart; I start with a question worth asking. Cleaning, EDA,
 **Dashboards:** Power BI (DAX, Power Query) · Excel (Pivot Tables, XLOOKUP, VBA)  
 **Stack:** MySQL · Git · Jupyter  
 
-## Right now
-
-Writing SQL queries against messy, multi-table data using joins and window functions, not toy tables, and turning past projects into proper case studies with recommendations at the end, not just dashboards.
-
 ## Reach me
 
 📍 Bhopal  
