@@ -21,6 +21,6 @@ I don't start with a chart; I start with a question worth asking. Cleaning, EDA,
 ## Reach me
 
 📍 Bhopal  
-✉️ vanikakapoor31@gmail.com  
+✉️ vanikaawork@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vanika-kapoor-23915828a)
 
