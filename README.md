@@ -7,7 +7,7 @@ I find the one number in a messy dataset that actually matters, then build somet
 9.1 runs/over, showing how IPL scoring climbed from 8.0 over 17 seasons  
 44% of Starbucks India revenue comes from coffee alone  
 
-Final-year CS (AI & ML) student at VIT Bhopal, currently deep in SQL and getting ready for analyst internship season.
+Final-year CS (AI & ML) student at VIT Bhopal.
 
 ## How I work 
 
