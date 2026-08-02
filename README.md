@@ -22,5 +22,5 @@ I don't start with a chart; I start with a question worth asking. Cleaning, EDA,
 
 📍 Bhopal  
 ✉️ vanikaawork@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vanika-kapoor-23915828a)
+🔗 [LinkedIn](https://linkedin.com/in/vanika-kapoor-23915828a) 
 
