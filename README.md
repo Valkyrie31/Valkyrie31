@@ -18,7 +18,7 @@ I don't start with a chart; I start with a question worth asking. Cleaning, EDA,
 **Dashboards:** Power BI (DAX, Power Query) · Excel (Pivot Tables, XLOOKUP, VBA)  
 **Stack:** MySQL · Git · Jupyter  
 
-## R  
+  
 ✉️ vanikaawork@gmail.com  
 [LinkedIn](https://linkedin.com/in/vanika-kapoor-23915828a) 
 [Portfolio](https://valkyrie31.github.io/vanika-portfolio/)
